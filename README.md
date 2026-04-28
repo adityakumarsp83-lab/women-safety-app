@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# women-safety-app
+Women Safety &amp; Risk Zone Mapping App - A full-stack web application with real-time safety reporting, SOS emergency system, interactive heatmap, trusted contacts, and community validation
+>>>>>>> 8a4bf7d7e7e662e203b8d0f37ea21ef06a4b9419
